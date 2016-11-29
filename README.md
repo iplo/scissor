@@ -1,3 +1,4 @@
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Scissors_icon_black.svg/1280px-Scissors_icon_black.svg.png?raw=true)
 # scissor
 
 ### Please use specific version of scissor not the ```master```  branch as it is experimental.
