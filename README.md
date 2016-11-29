@@ -1,10 +1,8 @@
 # scissor
 ## How to install Scissor
 Download the ```.zip``` or ```.tar.gz``` file (tar.gz for _**Linux**_ systems). Next ```Unzip``` the downloaded file and
-rename to your name of choice / project name.
-
-Open ```install.sh``` you must have python 3 though with the command set as default (python3).
-This will extract recources folder to main directory.
+rename to your name of choice / project name,
+Move the files in thr ```resources``` folder.
 Now delete the ```resources``` folder.
 
 In all html file make sure you have in the head section: ```<script src="scissor.js"></script>```
