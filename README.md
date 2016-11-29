@@ -1,1 +1,2 @@
 # scissor
+## How to install
