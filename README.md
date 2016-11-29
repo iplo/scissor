@@ -1,4 +1,7 @@
 # scissor
+
+### Please use specific version of scissor not the ```master```  branch as it is experimental.
+
 ## How to install Scissor
 Download the ```.zip``` or ```.tar.gz``` file (tar.gz for _**Linux**_ systems). Next ```Unzip``` the downloaded file and
 rename to your name of choice / project name,
